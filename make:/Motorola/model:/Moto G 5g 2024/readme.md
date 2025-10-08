@@ -1,5 +1,7 @@
 moto g 5g 2024 unlocked
 
+SKU: XT2417-1
+
 eSIM: True
 
 sch:
